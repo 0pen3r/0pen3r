@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <!--interest-->
 <div align="center">
   
-### Interesting Site ✨ <br> 
+### Interesting Sites ✨ <br> 
    https://solved.ac/ranking/tier <br><br><br>
 
-### Interesting Language ✨ <br> 
+### Interesting Languages ✨ <br> 
 </div>
 
 
