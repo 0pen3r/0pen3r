@@ -34,13 +34,14 @@ Here are some ideas to get you started:
 
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hithere~!&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Start~!&fontSize=70&animation=twinkling)
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
+<!--<p align="center"> name </p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<!--<h3 align="center"> 
+참고 : https://321coucou.tistory.com/43 ㄱㅅㄱㅅ</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> Techs that I've used at least once </p>-->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
