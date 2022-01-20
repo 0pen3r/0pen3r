@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ### To Do Lists ✨ <br> 
    los 1 , dream 1, 100j 1 per day<br>
+   FLASK => JAVA => JS(ing) => Django
    <br><br>
   
   
