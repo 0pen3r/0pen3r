@@ -33,14 +33,8 @@ Here are some ideas to get you started:
    <br><br>
   
   
-### Interesting Sites ✨ <br> 
-   https://solved.ac/ranking/tier <br><br><br>
-
 ### Interesting Languages ✨ <br> 
 </div>
-
-
-
 <!--language-->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -53,6 +47,17 @@ Here are some ideas to get you started:
 
 
 
+### bug bounty ✨ <br> 
+   https://solved.ac/ranking/tier <br><br><br>
+
+
+### Interesting Sites ✨ <br> 
+   https://solved.ac/ranking/tier <br><br><br>
+
+
+
+
+<!--foot-->
 <!--count-->
 <div align="right">
   
