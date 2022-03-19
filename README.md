@@ -46,10 +46,11 @@ Here are some ideas to get you started:
 </p>
 
 
-### Toy Project(bug bounty, programming..) ✨ <br> 
-   2022.02.11 / aaaaa / bug bounty <br>
-   2022.02.11 / aaaaa / programming <br>
-   
+### Toy Project(bug bounty, programming..) ✨ <br>
+
+   2021.08.17 / public organization(k..) / Logical flaw Bug & XSS <br>
+   2021.12.08 / Blizzard / Logical flaw Bug <br>
+   2022.02.24 / public organization(s..) / OR & XSS(Report) <br>
    <br><br>
 
 
