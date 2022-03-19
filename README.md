@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--title-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Start~!&fontSize=60&animation=twinkling)
 
-ㅁㅁㅁㅁㅁ
+
 
 <!--interest-->
 <div align="center">
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### Toy Project(bug bounty, programming..) ✨ <br>
 
    2021.08.17 / public organization(k..) / Logical flaw Bug & XSS <br>
-   2021.12.08 / Blizzard / Logical flaw Bug <br>
+   2021.12.08 / B********* Entertainment / Logical flaw Bug <br>
    2022.02.24 / public organization(s..) / OR & XSS(Report) <br>
    <br><br>
 
