@@ -51,6 +51,8 @@ Here are some ideas to get you started:
    2021.08.17 / public organization(k..) / Logical flaw Bug & XSS <br>
    2021.12.08 / B********* Entertainment / Logical flaw Bug <br>
    2022.02.24 / public organization(s..) / OR & XSS(Report) <br>
+   2022.03.23 / Initech / OR(Report) <br>
+   
    <br><br>
 
 
