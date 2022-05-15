@@ -52,6 +52,8 @@ Here are some ideas to get you started:
    2021.12.08 / B********* Entertainment / Logical flaw Bug <br>
    2022.02.24 / public organization(s..) / OR & XSS(Report) <br>
    2022.03.23 / Initech / OR(Report) <br>
+   2022.05.11 / nav** / Logic <br>
+   2022.05.13 / nav** / main-page vuln <br>
    
    <br><br>
 
