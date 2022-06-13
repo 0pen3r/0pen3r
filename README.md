@@ -47,13 +47,20 @@ Here are some ideas to get you started:
 
 
 ### Toy Project(bug bounty, programming..) ✨ <br>
-
-   2021.08.17 / public organization(k..) / Logical flaw Bug & XSS <br>
-   2021.12.08 / B********* Entertainment / Logical flaw Bug <br>
-   2022.02.24 / public organization(s..) / OR & XSS(Report) <br>
-   2022.03.23 / Initech / OR(Report) <br>
-   2022.05.11 / nav** / Logic <br>
-   2022.05.13 / nav** / main-page vuln <br>
+   [bug bounty] <br>
+   2021.08 / public organization(KE..) / Logical flaw Bug & XSS <br>
+   2021.12 / B*** Entertainment / Logical flaw Bug <br>
+   2022.02 / public organization(SE..) / OR & XSS(Reported) <br>
+   2022.03 / In*** / OR light vuln(Reported) <br>
+   2022.03 / na*** / c* light vuln(Reported) <br>
+   2022.04 / KI*** / Logic(Reported) <br>
+   2022.05 / na*** / Logic(Reported) <br>
+   2022.05 / na*** / main page light vuln(Reported) <br>
+   2022.06 / na*** / p* light vuln(Reported) <br>
+   2022.06 / han*** / light vuln(Reported) <br>
+   
+   [programming] <br>
+   2022.05 / python / Automate parsing cracking <br>
    
    <br><br>
 
