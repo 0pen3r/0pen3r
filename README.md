@@ -61,6 +61,7 @@ Here are some ideas to get you started:
    
    [programming] <br>
    2022.05 / python / Automate parsing cracking <br>
+   2022.06 / JS || flutter / test app making(ing..) <br>
    
    <br><br>
 
