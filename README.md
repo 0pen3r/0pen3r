@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### To Do Lists ✨ <br> 
-   dream 1, 100j 1 per day<br>
-   FLASK => JAVA => REACT(ing) => VUE => Django<br>
-   Android(JAVA) => Android(Kotlin)
+   springboot > front > android(kotlin)
+   FLASK => Django<br>
    <br><br>
   
   
